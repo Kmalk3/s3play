@@ -1,0 +1,7 @@
+?token=NTIwNTYwMTkyODMyNjY3NjQ5.Duvpeg.zeA6LJ55EvEhUj5YFdyfLOaZeuY
+owner= 490546269832609792
+prefix= 3
+game= 3help
+stayinchannel=true
+songinstatus=true 
+token=NTIwNTYwMTkyODMyNjY3NjQ5.Duvpeg.zeA6LJ55EvEhUj5YFdyfLOaZeuY
